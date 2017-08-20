@@ -16,9 +16,10 @@
  * FUTURE UPGRADES
  * 1) Will add more animations.
  * 2) Will add switches for animation changes.
- * 3) Will add 2 more regular RGB support.
- * 5) We don't forth here. :D
- * 6) Will add software animation support. (May have to change to processing code.)
+ * 3) Will add 2 more regular RGB support and fan support.
+ * 5) We don't forth here. :)
+ * 6) Will add lcd screen support. (If I could ever, make i2c to cooperate.)
+ * 7) Will add software animation support. (May have to change to processing code.)
  * 
  * 
  */
